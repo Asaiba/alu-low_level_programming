@@ -1,4 +1,4 @@
-My first project in c 
+Few lowlevel programs in C
 
 Hello world
 
